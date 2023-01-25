@@ -1,3 +1,3 @@
-# go-it-lesson6
+# go-it-lesson7
 
-My sixth home work for GoIt (add forms).
+My seventh home work for GoIt (add SASS).
